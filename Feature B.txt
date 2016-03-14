@@ -1,3 +1,6 @@
 Feature B implementation
 
 Coding B
+
+B3 function implementation
+
